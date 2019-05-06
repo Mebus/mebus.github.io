@@ -1,3 +1,3 @@
 # Mebus
 
-This is my personal website!
+Please visit my [Github profile](https://github.com/Mebus/).
